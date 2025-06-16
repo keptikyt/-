@@ -1,7 +1,7 @@
 import telebot
 import logging
 
-TOKEN = "7692968357:AAGK6XvMDA5WBgqWk3PSXZva3YnT-km4Zok"
+TOKEN = "token"
 # Настройка логирования
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
